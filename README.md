@@ -1,6 +1,6 @@
 ```
 This is a fork of the "Rock the JVM Scala at Light Speed course" starter code.
-I have added pointers and notes for my reference.
+I have added additional pointers and notes.
 ```
 # The official repository for the Rock the JVM Scala at Light Speed course
 
